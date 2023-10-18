@@ -1,7 +1,7 @@
-<div class="tenor-gif-embed" data-postid="20199828" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/my-server-banner-do-not-steal-gif-20199828">My Server Banner Do Not Steal GIF</a>from <a href="https://tenor.com/search/my+server+banner+do+not+steal-gifs">My Server Banner Do Not Steal GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![MasterHead](https://digitaledgetech.in/images/Banner_03.gif)
 <h1 align="center">Hi 👋, I'm Muhsin</h1>
 <h3 align="center">Tech Maverick on a Quest 🌐</h3>
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img align="right" alt="coding gif" width= "400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhzin01&label=Profile%20views&color=0e75b6&style=flat" alt="muhzin01" /> </p>
 
